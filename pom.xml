@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.longdict.service</groupId>
-	<artifactId>com-long-dict-service</artifactId>
+	<artifactId>com-longdict-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com-long-dict-service</name>
+	<name>com-longdict-service</name>
 	<description>Long Dictionary Web Service</description>
 	<properties>
 		<java.version>11</java.version>
